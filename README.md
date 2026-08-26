@@ -1,5 +1,9 @@
 # Hi, I'm Yashmit Singh 👋
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Responsible+AI+%E2%80%A2+ML+Systems+%E2%80%A2+Thoughtful+Software;Building+useful+things%2C+one+iteration+at+a+time" alt="Animated introduction: Responsible AI, ML Systems, Thoughtful Software" />
+</p>
+
 ### Computer Science student building responsible AI, useful products, and immersive web experiences
 
 I build end-to-end software around meaningful problems — especially where machine-learning decisions affect people. My work spans **AI fairness and explainability, cybersecurity, full-stack product development, and interactive web engineering**.
