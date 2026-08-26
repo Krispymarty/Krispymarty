@@ -1,44 +1,38 @@
-# Hi there, I'm Yashmit Singh
+# Hi, I'm Yashmit Singh 👋
 
-### Computer Science Student | Machine Learning and AI Ethics
+### Computer Science student building responsible AI and thoughtful software
 
-*I don't just learn ML - I build with it.*
+I turn ambitious ideas into working systems — from fairness auditing for high-stakes ML decisions to computer-vision tools, full-stack products, and interactive portfolio experiences.
 
----
-
-## What I'm Building
-
-| Project | What It Does | Status |
-|---|---|---|
-| [**AI Bias Detection**](https://github.com/Krispymarty/bias-detection-system) | Audits ML models for gender/demographic bias using Fairlearn & SHAP. Built a FastAPI backend with counterfactual "path to approval" logic. | Active |
-| [**AstraNaari - Weapon Detection**](https://github.com/Krispymarty/AstraNaari) | Real-time weapon detection from live camera feeds using YOLOv8 + OpenCV, with a Streamlit dashboard and threaded video capture. | Done |
-| [**Fraud Detection Model**](https://github.com/Krispymarty/fraud-detection-system) | Cost-sensitive fraud detection using dynamic per-transaction thresholding. Achieved **11% reduction in financial loss** vs baseline. | Done |
-| **Agentic AI (OpenClaw)** | Exploring multi-agent AI systems with local LLMs, role-based orchestration, and resource-constrained deployment. | Exploring |
+I care about the part after the demo: **explainability, measurable outcomes, human oversight, and clear documentation.**
 
 ---
 
-## My Approach
+## What I'm building
 
-I believe the best way to learn ML is to build projects where something can go wrong - then figure out why.
+| Project | Focus | Highlights |
+| --- | --- | --- |
+| [**AI Fairness Auditor**](https://github.com/Krispymarty/bias-detection-system) | Responsible AI | Audits 12 intersectional demographic groups, explains decisions with SHAP, and mitigates bias with Fairlearn. |
+| [**Sentinel AI**](https://github.com/Krispymarty/CyberShield) | Cybersecurity | AI-powered threat detection and response across Python, React Native, web, and database layers. |
+| [**Life XP**](https://github.com/Krispymarty/LifeXp) | Full-stack product | Gamified self-growth platform with React, Express, MongoDB, skills, levels, and badges. |
+| [**Portfolio**](https://github.com/Krispymarty/Portfolio) | Product engineering | Evidence-led portfolio combining explainable case studies with a responsive interactive workspace. |
 
-- I don't copy tutorials. I pick a problem, build toward it, and document what I actually learned.
-- - Every project has a **"What I Learned"** section because understanding > building.
- 
-  - ---
+## My toolkit
 
-  ## Tech Stack
+**AI / ML:** Python · scikit-learn · XGBoost · Fairlearn · SHAP · OpenCV  
+**Backend:** FastAPI · Node.js · Express · Pydantic · MongoDB  
+**Frontend:** React · Next.js · TypeScript · Tailwind CSS · Three.js  
+**Currently exploring:** agentic AI · MLOps · Docker · cloud deployment · AI governance
 
-  Python . scikit-learn . XGBoost . OpenCV . FastAPI . Streamlit . Pandas . NumPy . R
+## How I work
 
-  **Currently Learning:** Fairlearn . SHAP . Agentic AI workflows . Docker & Cloud deployment
+- Start with a real problem and define what “better” means.
+- Build end to end, then test the assumptions that could fail.
+- Document trade-offs, limitations, and what I learned.
+- Keep human judgment in the loop when the stakes are high.
 
-  ---
+## Let's connect
 
-  ## Let's Connect
+[LinkedIn](https://www.linkedin.com/in/yashmit-singh-a04551312) · [Email](mailto:20yashmitsingh@gmail.com)
 
-  [LinkedIn](https://www.linkedin.com/in/yashmit-singh-a04551312) | [Email](mailto:20yashmitsingh@gmail.com)
-
-  ---
-
-  *"Being a student isn't a weakness - it's the best time to build things and break them."*
-  
+> Building, breaking, and learning in public — one meaningful system at a time.
